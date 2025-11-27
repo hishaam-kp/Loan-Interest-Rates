@@ -40,6 +40,8 @@ Box plots to segment interest rates by education level
 Scatter plots and correlation analysis for numeric predictors
 
 Confidence interval estimation for loan amount discrepancies
+<img width="1289" height="771" alt="image" src="https://github.com/user-attachments/assets/9faabc3b-100c-464f-9660-6bca7dca159c" />
+
 
 <h4>3. Modeling</h4>
 🔹 Simple Linear Regression
@@ -53,6 +55,8 @@ Predictors: Loan duration, liabilities, previous loans, and encoded categorical 
 R²: 0.613 — strong model performance
 
 All variables statistically significant (p < 0.05)
+<img width="1292" height="800" alt="image" src="https://github.com/user-attachments/assets/b405764f-d095-4518-a103-894a10b03e85" />
+
 
 <br>
 <h1>📈 Key Insights</h1>
