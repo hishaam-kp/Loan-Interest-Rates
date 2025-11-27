@@ -70,7 +70,7 @@ Jupyter Notebook
 Statistical modeling and visualization
 
 <h1>🚀 How to Run</h1>
-Download the dataset from the link provided above
+Download the dataset from the link provided: https://www.kaggle.com/datasets/marcobeyer/bondora-p2p-loans?select=LoanData.csv
 
 Clone this repository to your local machine
 
